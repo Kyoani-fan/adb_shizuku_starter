@@ -1,0 +1,2 @@
+# adb_shizuku_starter
+ADB连接手机并执行shizuku启动脚本
